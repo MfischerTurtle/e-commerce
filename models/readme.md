@@ -1,7 +1,6 @@
-# E-Commerce 
+# HomeWork Week 13
 
-
-## Table of Contents
+# Table of Contents
 * [Challenge](#challenge)
 * [User Story](#user-story)
 * [Acceptance Critiera](#acceptance-criteria)
@@ -9,7 +8,7 @@
 * [License](#license)
 * [Installation](#installation)
 
-### Challenge:
+## Challenge:
 This challenge is to build the back end for an e-commerce site. I will take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
 
 ## User Story
@@ -32,7 +31,7 @@ This challenge is to build the back end for an e-commerce site. I will take a wo
 
 ## Walk Through
 
-[Walkthrough Videos](https://drive.google.com/drive/folders/1UKmqAeIyr4oqUsGZivqgn5d3rIXFsLF2?usp=sharing)
+
 
 ## License
 * MIT
