@@ -31,8 +31,7 @@ This challenge is to build the back end for an e-commerce site. I will take a wo
 > THEN I am able to successfully create, update, and delete data in my database
 
 ## Walk Through
-
-[Walkthrough Videos](https://drive.google.com/drive/folders/1UKmqAeIyr4oqUsGZivqgn5d3rIXFsLF2?usp=sharing)
+[Video Walkthrough](https://drive.google.com/file/d/1lXxm2Q8XsV0MFnGpkiIG1QiH3niNeTZK/view)
 
 ## License
 * MIT
